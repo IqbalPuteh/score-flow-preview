@@ -46,7 +46,7 @@ const Index: React.FC = () => {
               
               <div className="mt-8 text-center">
                 <p className="text-sm text-finance-gray">
-                  © 2025 Copyright Fairbanc Technologiest Indonesia
+                  © 2025 Copyright Fairbanc Technologies Indonesia
                 </p>
               </div>
             </>
